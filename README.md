@@ -1,4 +1,4 @@
-#__How to get Build Info from Jenkins in python script.__#
+__How to get Build Info from Jenkins in python script.__
 
 Script my_script_with_args.py shows how build information can be taken from Jenkins using python-jenkins api.
 Before running script:
@@ -8,9 +8,10 @@ Before running script:
    - make sure your usage is correct:
       Usage: ./<Script_name> <Job_name> <Build_num>
       
-##__Output of the file :__##
-Job    ctera_pipeline
-
+__Output of the file :__
+_
+   
+     Job    ctera_pipeline
      Build number :11    started by:   admin
      Build status:    SUCCESS
      Build duration :   0:00:44.615000
