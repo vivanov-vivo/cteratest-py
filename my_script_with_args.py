@@ -23,7 +23,7 @@ dur_in_formatt = datetime.timedelta(milliseconds=dur)
 result = info['result']
 
 ## print output
-print("Job    " +str(job_name))
+print("Job : " +str(job_name))
 print("     Build number :" + str(build_num) + "    started by:   " + str(job_started_by))
 print("     Build status:    " + str(result))
 print("     Build duration :   " + str(dur_in_formatt))
