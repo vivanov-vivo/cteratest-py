@@ -9,8 +9,7 @@ Before running script:
       Usage: ./<Script_name> <Job_name> <Build_num>
       
 ##__Output of the file :__##
-
-_Job    ctera_pipeline
+Job    ctera_pipeline
 
      Build number :11    started by:   admin
      Build status:    SUCCESS
