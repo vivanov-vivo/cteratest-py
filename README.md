@@ -1,4 +1,5 @@
-__How to get Build Info from Jenkins in python script.__
+#__How to get Build Info from Jenkins in python script.__
+
 Script my_script_with_args.py shows how build information can be taken from Jenkins using python-jenkins api.
 Before running script:
    - verify the path to python in the script;
